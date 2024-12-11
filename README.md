@@ -22,12 +22,12 @@ O objetivo deste projeto é criar uma aplicação interativa que permita aos usu
 
 Este projeto é uma aplicação web que apresenta diferentes versões do Homem-Aranha, mostrando personagens como o Peter Parker, Miles Morales, e outros heróis do multiverso. O usuário pode navegar pelas diversas versões e conhecer as características e histórias de cada um.
 
-Esta versão inclui melhorias nas páginas internas, tornando-as mais dinâmicas e informativas, além da adição de uma página de personagens, onde é possível conhecer melhor os personagnes principais que fazem parte deste universo.
+Esta versão inclui melhorias nas páginas internas, tornando-as mais dinâmicas e informativas, além da adição de uma página de personagens, onde é possível conhecer melhor os personagens principais que fazem parte deste universo.
 
 ## 🕸️ Como Utilizar
 
 1. **Acessar a Página**:
-   - Acesse a aplicação hospedada clicando [aqui](https://spider-man-multiverses.vercel.app).
+   - Acesse a aplicação hospedada clicando [aqui](https://spider-man-dio.vercel.app/).
    - Ou abra o arquivo `index.html` localmente no navegador para visualização offline.
 
 2. **Navegar pelas Versões**:
